@@ -1,0 +1,19 @@
+# Rust artifacts
+target/
+Cargo.lock
+**/*.rs.bk
+
+# Test artifacts
+stripe-mock/
+
+# IDE artifacts
+.DS_Store
+.code-workspace/
+.idea/
+*.swp
+~*
+.vscode
+
+spec3.json
+spec3.sdk.json
+
